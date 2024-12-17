@@ -1,10 +1,12 @@
 import "./App.css";
-import { HelloWorld } from "./pages/HelloWorld";
+import { AppRoutes } from "@/routes/AppRoutes";
 
 const App = () => {
   return (
     <>
-      <HelloWorld />
+      <div className="wh-full">
+        <AppRoutes></AppRoutes>
+      </div>
     </>
   );
 };
