@@ -1,5 +1,5 @@
 import "./App.css";
-import { HelloWorld } from "./views/HelloWorld";
+import { HelloWorld } from "./pages/HelloWorld";
 
 const App = () => {
   return (
