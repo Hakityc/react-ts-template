@@ -10,8 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@types/uuid": "^10.0.0",
+    "ahooks": "^3.8.4",
+    "dayjs": "^1.11.13",
+    "lodash": "^4.17.21",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "uuid": "^11.0.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
